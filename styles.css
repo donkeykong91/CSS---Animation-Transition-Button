@@ -32,3 +32,8 @@ button {
 	margin: 2em auto;
 	display:block;
 }
+
+button:hover {
+	background: #c61140;
+	transform: scale(1.2);
+}
