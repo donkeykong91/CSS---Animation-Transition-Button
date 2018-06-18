@@ -32,7 +32,7 @@ button {
 	margin: 2em auto;
 	display:block;
 
-	transition: .5s;
+	transition: background .5s ease-in, transform .25s ease-in-out;
 }
 
 button:hover {
